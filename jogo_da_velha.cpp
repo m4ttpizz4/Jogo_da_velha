@@ -1,3 +1,4 @@
+#bibliotecas:
 #include <iostream>
 #include <vector>
 
@@ -88,7 +89,7 @@ public:
                 }
                 trocarJogador();
             } else {
-                cout << "Jogada inválida. Tente novamente." << endl;
+                cout << "Jogada invÃ¡lida. Tente novamente." << endl;
             }
         }
     }
